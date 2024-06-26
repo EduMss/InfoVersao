@@ -1,0 +1,6 @@
+@InfoVesao_HostAddress = http://localhost:5183
+
+GET {{InfoVesao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
